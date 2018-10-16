@@ -5,6 +5,5 @@ public class AdapaterClient {
         Target target;
         target = new Adapter();
         target.request();
-        System.out.println("this is adapater pattern");
     }
 }
