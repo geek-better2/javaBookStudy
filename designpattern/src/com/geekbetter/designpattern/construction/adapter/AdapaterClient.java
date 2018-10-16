@@ -5,5 +5,6 @@ public class AdapaterClient {
         Target target;
         target = new Adapter();
         target.request();
+
     }
 }
